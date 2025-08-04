@@ -2,6 +2,7 @@ import React from 'react'
 import Navbar from "./Navbar"
 import { motion } from "framer-motion"
 
+
 const Header = () => {
     return (
         <div className='min-h-screen mb-4 bg-cover bg-center flex
